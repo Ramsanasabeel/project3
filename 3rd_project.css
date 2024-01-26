@@ -17,7 +17,7 @@
 }
 .nav-link{
     color: aliceblue;
-    text-align: right;
+
   
 
 }
@@ -72,9 +72,11 @@ h2{
 }
 .cc{
     text-align: left;
+    padding-top: 15px;
 }
 .m{
     text-align: left;
+    padding-top: 15px;
 }
 .inbox9{
     background-color: rgb(61, 61, 236);
@@ -109,13 +111,19 @@ h2{
 .rd{
     color: aliceblue;
     text-align: center; 
-    padding: 40px;
+  
 }
 .rd1{
     background-color: rgb(61, 61, 236);
+     min-height: 333px;
+     margin-top: 15px;
 }
 .head{
     text-align: center;
+}
+.inbox20,.inbox21,.inbox22{
+    min-height: 100px;
+    margin-top: 15px;
 }
 .blue{
     color: rgb(89, 89, 248);
